@@ -14,3 +14,4 @@
 
 FidZone combines modern social networking features with enhanced security, creating a vibrant and trustworthy digital space.
 
+2022 @1ching
