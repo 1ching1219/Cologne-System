@@ -30,5 +30,5 @@ A perfume shopping system built with PHP and MySQL, featuring member management,
 - This project is for academic or personal use and does not include full security measures.
 - For deployment to production servers, make sure to add additional security measures (e.g., SQL injection protection, XSS prevention).
 
-Copyright © 2022 by 1ching. All rights reserved.
+Copyright © 2024 by 1ching. All rights reserved.
 
