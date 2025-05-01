@@ -24,6 +24,7 @@ A perfume shopping system built with PHP and MySQL, featuring member management,
 | Environment| Apache (Recommended: XAMPP/MAMP) |
 
 ---
+Copyright © 2022 by 1ching. All rights reserved.
 
 ## 📌 Notes
 
